@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**SatyamInnovates/SatyamInnovates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Satyam Kumar. I am a young developer interested in building AI-powered applications and learning how real software products are made. I am currently focused on improving my technical skills, understanding how AI tools can be used in practical workflows, and exploring how software can evolve into useful products.
 
-Here are some ideas to get you started:
+My current learning path includes Python, AI APIs, and applied software development. I am also developing a deeper understanding of how modern AI tools integrate with coding, research, documentation, and planning. My long-term goal is to build and deploy applications that solve real problems and can operate as sustainable software products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use GitHub to document my progress, track my learning, and share early projects as I build experience in both development and product thinking.
+
+
+I am coding since last many months but i dont know taht tiem taht i can record progress!!
+
+
+##23-01-2026
+
+- Learned how to integrate multiple AI tools for my entrepreneur journey
+- Created AI workflow: Strategy → Research → Writing → Build → Organize
+- Set up Notion for planning and execution
+- Increased confidence in long-term founder path
+- Understood importance of systems over random learning
+
