@@ -14,3 +14,9 @@ Launched my first project: [Avilor](https://avilor.onrender.com)
 Currently 2026 sep-
 Doing DSA.
 Revising Machine learning.
+
+
+
+
+#DSA ALGORITHMS MASTERED.
+-HASHMAP -> 10 Questions solved.
