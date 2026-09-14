@@ -23,8 +23,4 @@ Revising Machine learning.
 
 
 
-
-
-
-
--HASHMAP -> 10 Questions solved.
+1. HASHMAP -> 10 Questions solved.
