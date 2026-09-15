@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi👋
 
-I'm Satyam Kumar, a self-taught developer building AI-powered applications and 
+I'm Satyam Kumar, a self-taught developer building AI-powered startups and 
 learning how real-world software products are built.
 
 I'm currently focused on Python, AI APIs, and applied software development — 
