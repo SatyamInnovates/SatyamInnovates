@@ -10,7 +10,10 @@ workflows. My goal is to build and ship products that solve real problems.
 I use GitHub to document my progress and share projects as I learn.
 100 Followers of X(Twitter).
 
-Launched my first project: [Avilor](https://avilor.onrender.com)
+Launched my first startup: [Avilor](https://avilor.onrender.com)
+
+It's closed.
+
 
 Currently 2026 sep-
 Doing DSA.
