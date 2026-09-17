@@ -156,10 +156,10 @@ Currently revising the fundamentals of Machine Learning and strengthening my und
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 * 🐙 GitHub — You're already here
-* 𝕏 Twitter/X — **100+ followers**
+* 𝕏 Twitter/X — **100+ followers** **https://x.com/Code_Arjun**
 
 ---
 
