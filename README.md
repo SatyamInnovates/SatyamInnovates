@@ -157,9 +157,7 @@ Currently revising the fundamentals of Machine Learning and strengthening my und
 ---
 
 ## Connect With Me
-
-* 🐙 GitHub — You're already here
 * 𝕏 Twitter/X — **100+ followers** **https://x.com/Code_Arjun**
-
+* LeetCode - **https://leetcode.com/u/Satyam_builds/**
 ---
 
