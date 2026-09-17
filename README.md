@@ -28,3 +28,4 @@ Revising Machine learning.
 
 
 1. HASHMAP -> 10 Questions solved.
+2.TWO POINTER -> ...
