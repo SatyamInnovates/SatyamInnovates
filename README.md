@@ -156,22 +156,6 @@ Currently revising the fundamentals of Machine Learning and strengthening my und
 
 ---
 
-## 🌱 My Learning Philosophy
-
-I believe the best way to learn software development is by **building real things**.
-
-Instead of only following tutorials, I try to:
-
-1. Learn the concept
-2. Build something with it
-3. Break it
-4. Debug it
-5. Understand why it works
-6. Ship it
-7. Move to the next challenge
-
----
-
 ## 🌐 Connect With Me
 
 * 🐙 GitHub — You're already here
@@ -179,10 +163,3 @@ Instead of only following tutorials, I try to:
 
 ---
 
-## 🎯 Long-Term Goal
-
-Build software products that solve **real problems**, learn from users, and continuously improve through iteration.
-
-I'm still early in the journey — but I'm building in public and documenting the process.
-
-**Thanks for stopping by! 🚀**
