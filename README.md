@@ -1,163 +1,83 @@
-# 👋 Hi, I'm Satyam Kumar
+# Satyam Kumar
 
-**Self-taught Developer • AI Builder • Startup Enthusiast**
+**Self-Taught Developer · AI Builder · Startup Enthusiast**
 
-I'm a self-taught developer focused on building **AI-powered products** and understanding how real-world software is designed, developed, and shipped.
+I build software, experiment with AI, and learn by shipping real projects.
 
-I'm currently working with **Python, AI APIs, and applied software development**, while exploring how modern AI tools can be integrated into real coding, research, and product workflows.
+Currently focused on Python, Machine Learning, Data Structures & Algorithms, and building practical AI-powered applications.
 
-My goal is simple:
-
-> **Learn → Build → Ship → Improve**
-
-I use GitHub to document my learning journey, experiment with ideas, and share the projects I build along the way.
+**My approach:** Learn → Build → Ship → Improve
 
 ---
 
-## 🚀 What I'm Currently Doing
+## What I'm Working On
 
-**September 2026**
-
-* 🧠 Practicing **Data Structures & Algorithms (DSA)**
-* 🤖 Revising **Machine Learning**
-* 🐍 Strengthening my **Python** skills
-* 🔧 Building and experimenting with software projects
-* 📚 Learning how production-level software and AI products are built
+* **Data Structures & Algorithms** — Practicing problem-solving patterns and improving algorithmic thinking.
+* **Machine Learning** — Revising core concepts and strengthening my implementation skills.
+* **AI Engineering** — Exploring LLMs, RAG, vector databases, and AI-powered applications.
+* **Software Development** — Learning how to design, build, and ship reliable software.
 
 ---
 
-## 🏗️ Startup
+## Projects
 
-### Avilor — AI-Powered Coding Roadmap
+### Avilor — AI-Powered Coding Roadmaps
 
-I launched **[Avilor](https://avilor.onrender.com)**, my first startup project.
+My first startup project: a platform that generated personalized coding roadmaps based on developers' goals and interests.
 
-Avilor was an attempt to build a personalized learning experience for developers by generating coding roadmaps based on their goals and interests.
+**What I learned**
 
-The project is now **closed**, but it gave me practical experience in:
+* AI API integration and backend development
+* Authentication and database integration
+* MVP development and deployment
+* Product feedback and iteration
 
-* Product development
-* AI API integration
-* Backend development
-* Authentication
-* Deployment
-* User feedback
-* Building and shipping an MVP
+**Status:** Closed · First startup experiment
 
-> **First startup shipped. Lessons learned. Next one will be better.**
+[GitHub Repository](https://github.com/SatyamInnovates/Avilor)
 
 ---
 
-## ⭐ Featured Projects
+## Technical Skills
 
-### 🚀 Avilor
-
-**AI-powered personalized coding roadmap platform**
-
-* 🧠 Personalized learning roadmaps
-* 🤖 AI-powered recommendations
-* 🔐 Authentication
-* ⚡ Backend & API integration
-* 🌐 Deployed as a real-world MVP
-
-**Status:** Closed
-
-🔗 [View Project](https://avilor.onrender.com)
+| Category                  | Technologies                         |
+| ------------------------- | ------------------------------------ |
+| Languages                 | Python, JavaScript                   |
+| AI & Machine Learning     | Machine Learning, LLMs, RAG, AI APIs |
+| Data Science              | NumPy, Pandas, Matplotlib            |
+| Backend & Web             | FastAPI, Jinja2, Tailwind CSS        |
+| Databases & Vector Search | Supabase, FAISS                      |
+| Tools                     | Git, GitHub, VS Code                 |
 
 ---
 
-### 🤖 Avilor
+## Learning & Progress
 
-**AI-powered personalized coding roadmap platform designed to help developers create structured learning paths based on their goals and interests.**
+### Data Structures & Algorithms
 
-* 🧠 AI-generated personalized coding roadmaps
-* 🔐 User authentication and account management
-* ⚡ AI API integration and backend development
-* 🌐 Built and deployed as a real-world MVP
-* 🧪 Learned from actual users and product feedback
+Currently practicing problem-solving patterns.
 
-**Status:** Closed — First startup project
+| Pattern      | Problems Solved |
+| ------------ | --------------: |
+| HashMap      |              10 |
+| Two Pointers |              12 |
 
-🔗 [https://github.com/SatyamInnovates/Avilor](#)
+### Machine Learning & AI
 
+Areas I've studied and practiced:
 
-
-
-## 🧩 DSA Progress
-
-Currently focused on building strong problem-solving fundamentals.
-
-### Algorithms & Patterns Mastered
-
-#### 1. HashMap
-
-* ✅ 10 problems solved
-
-#### 2. Two Pointers
-
-* ✅ 12 problems solved
-
----
-
-## 🤖 Machine Learning
-
-Currently revising the fundamentals of Machine Learning and strengthening my understanding through implementation and problem-solving.
-
-### Topics I've Worked With
-
-* Python for Data Science
-* NumPy
-* Pandas
-* Matplotlib
-* Data Preprocessing
-* Exploratory Data Analysis
-* Feature Engineering
-* Linear Regression
-* Gradient Descent
-* Feature Scaling
-* Encoding
-* Imputation
-* Pipelines
-* Cross-Validation
-* Traditional Machine Learning
-* LLMs & RAG
-* Vector Databases
-* FAISS
-* Hugging Face Embeddings
-* AI APIs
-
----
-
-## 🛠️ Tech I'm Working With
-
-**Languages**
-
-`Python` `JavaScript`
-
-**AI / ML**
-
-`Machine Learning` `LLMs` `RAG` `AI APIs`
-
-**Data**
-
-`NumPy` `Pandas` `Matplotlib`
-
-**Backend / Web**
-
-`FastAPI` `Jinja2` `Tailwind CSS`
-
-**Databases / Infrastructure**
-
-`Supabase` `FAISS`
-
-**Tools**
-
-`Git` `GitHub` `VS Code`
+* **Data Science:** NumPy, Pandas, Matplotlib, Exploratory Data Analysis
+* **Data Preparation:** Feature Engineering, Feature Scaling, Encoding, Imputation, Pipelines
+* **Machine Learning:** Linear Regression, Gradient Descent, Cross-Validation
+* **LLM Applications:** Retrieval-Augmented Generation (RAG), Vector Databases, FAISS, Hugging Face Embeddings
 
 ---
 
 ## Connect With Me
-* 𝕏 Twitter/X — **200+ followers** **https://x.com/Code_Arjun**
-* LeetCode - **https://leetcode.com/u/Satyam_builds/**
+
+* **X:** [@Code_Arjun](https://x.com/Code_Arjun)
+* **LeetCode:** [Satyam_builds](https://leetcode.com/u/Satyam_builds/)
+
 ---
 
+*Building consistently. Learning in public. Improving with every project.*
